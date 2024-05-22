@@ -21,8 +21,8 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID,
-BOT_NUMBER: process.env.BOT_NUMBER,
+BOT_NUMBER: process.env.4915678883283,
 PASSWORD: process.env.PASSWORD,
 GITHUB_USERNAME: process.env.GITHUB_Vkureycom,
-GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN
+GITHUB_AUTH_TOKEN: process.env.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
 };
